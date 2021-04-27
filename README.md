@@ -57,11 +57,7 @@
 
 ------
 
-<p align="center">
-
 ### Show ❤️ by ⭐️ my [repositories](https://github.com/ramunaidubobbili?tab=repositories)!
-
-</p>
 
 
 <!---
