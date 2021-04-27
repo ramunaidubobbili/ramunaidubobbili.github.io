@@ -1,8 +1,8 @@
 
   
-# 𝐇𝐞𝐥𝐥𝐨 <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />, I'm Ramunaidu Bobbili
+# 𝐇𝐞𝐥𝐥𝐨 <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />, I'm *Ramunaidu Bobbili*
 
-### ❤️UI Dveloper | UX-Designer | React Developer❤️
+❤️*UI Dveloper | UX-Designer | React Developer*❤️
 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
