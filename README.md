@@ -3,7 +3,7 @@
 *❤️ UI Dveloper | UX-Designer | React Developer ❤️*
 
 
-<img align="right" alt="GIF" height="300px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" />
 
 ### Languages and Tools 🛠 
 
