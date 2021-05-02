@@ -40,6 +40,9 @@
 
 ### My Github Stats 📊
 
+<div align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ramunaidubobbili&layout=compact">
+</div>
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=ramunaidubobbili&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=ramunaidubobbili&">
